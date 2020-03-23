@@ -1,0 +1,13 @@
+loc = ['italy', 'germany', 'fiji', 'japan', 'cali']
+print(sorted(loc))
+print(loc)
+print(sorted(loc, reverse=True))
+print(loc)
+loc.reverse()
+print(loc)
+loc.reverse()
+print(loc)
+loc.sort()
+print(loc)
+loc.sort(reverse=True)
+print(loc)
